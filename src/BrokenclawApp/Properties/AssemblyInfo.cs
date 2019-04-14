@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("BrokenclawApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("StephenBayer")]
 [assembly: AssemblyProduct("BrokenclawApp")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]

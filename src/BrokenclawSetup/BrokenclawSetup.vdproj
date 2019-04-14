@@ -188,7 +188,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BrokenclawSetup"
         "ProductCode" = "8:{EC9B2143-8755-4ABA-852B-FEB02F04B5FA}"
-        "PackageCode" = "8:{F7434298-F7BD-4673-A96A-1C2EFC4CAA00}"
+        "PackageCode" = "8:{92BF99C6-055A-42D6-B29E-0B2AF2289FF2}"
         "UpgradeCode" = "8:{2D38ACA8-FCB6-46C8-A944-AD547608A40F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
